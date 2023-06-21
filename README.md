@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 ## 비트코인 프로젝트
-- [GitHub](https://github.com/FireAntss/UpbitAnalyzer)
+- [GitHub보기](https://github.com/FireAntss/UpbitAnalyzer)
 
 ## SNS 만들기 프로젝트(1인)
-- [GitHub](https://github.com/Dnadit/react-express-sns)
+- [GitHub보기](https://github.com/Dnadit/react-express-sns)
 
 
 <!--
